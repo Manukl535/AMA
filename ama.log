@@ -36,3 +36,49 @@ ERROR:root:Mathematical evaluation error: invalid syntax (<string>, line 1)
 DEBUG:root:Dataset loaded successfully.
 DEBUG:root:Dataset loaded successfully.
 DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+ERROR:root:Error: Error tokenizing data. C error: Expected 6 fields in line 8, saw 7
+
+ERROR:root:Error: Error tokenizing data. C error: Expected 6 fields in line 8, saw 7
+
+ERROR:root:Error: Error tokenizing data. C error: Expected 6 fields in line 8, saw 7
+
+DEBUG:root:Dataset loaded successfully.
+ERROR:root:Error: Error tokenizing data. C error: Expected 6 fields in line 35, saw 7
+
+ERROR:root:Error: Error tokenizing data. C error: Expected 6 fields in line 35, saw 7
+
+DEBUG:root:Dataset loaded successfully.
+ERROR:root:Error: Error tokenizing data. C error: Expected 6 fields in line 37, saw 7
+
+ERROR:root:Error: Error tokenizing data. C error: Expected 6 fields in line 37, saw 7
+
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
+DEBUG:root:Dataset loaded successfully.
